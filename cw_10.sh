@@ -8,7 +8,7 @@
 # Description: Ten skrypt automatyzuje pobieranie, walidację, przetwarzanie i ładowanie danych do bazy PostgreSQL z zapytaniami przestrzennymi. 
 
 # Parametry
-NUMERINDEKSU="4150503"                          
+NUMERINDEKSU="415053"                          
 TIMESTAMP=$(date +%m%d%Y)                      
 LOG_DIR="PROCESSED"
 LOG_FILE="$LOG_DIR/script_${TIMESTAMP}.log" 
